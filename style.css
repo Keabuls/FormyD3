@@ -139,3 +139,9 @@ body::before {
   padding: 10px;
   border-radius: 5px;
 }
+
+@media(max-width: 943px) {
+  .title {
+    margin-top: 75px;
+  }
+}
